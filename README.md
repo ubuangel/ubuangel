@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 </p> -->
 
 <h1 align="left">Blogs
- <href="ubuangel.github.io"> </h1>
+ <href="https://andrescienciaesencia.wordpress.com/2023/10/28/cluser-mpi/"> </h1>
 
 
 <h3 align="left">Languages and Tools:</h3>
