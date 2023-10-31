@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 </p> -->
 
 <h1 align="left">Blogs</h1>
-[wordpress] ("https://andrescienciaesencia.wordpress.com/2023/10/28/cluser-mpi/")
+[wordpress] (https://andrescienciaesencia.wordpress.com/2023/10/28/cluser-mpi/)
 
 
 <h3 align="left">Languages and Tools:</h3>
