@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 </p> -->
 
 <h1 align="left">Blogs
- href="ubuangel.github.io" </h1>
+ <href="ubuangel.github.io"> </h1>
 
 
 <h3 align="left">Languages and Tools:</h3>
