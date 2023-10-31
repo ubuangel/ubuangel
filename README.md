@@ -32,8 +32,8 @@ Here are some ideas to get you started:
 </p> -->
 
 <p align="left">
-<a href="https://ubuangel.github.io/"/></a>
-<a href="https://andrescienciaesencia.wordpress.com/2023/10/28/cluser-mpi/"/></a>
+<a href="https://ubuangel.github.io"></a>
+<a href="https://andrescienciaesencia.wordpress.com/2023/10/28/cluser-mpi"></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
