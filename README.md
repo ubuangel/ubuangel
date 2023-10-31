@@ -31,8 +31,8 @@ Here are some ideas to get you started:
 <a href="https://linkedin.com/in/htpp://www.linkedin.com/in/Angel-Andres-Bejar-Merma-a838a4229" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="htpp://www.linkedin.com/in/Angel-Andres-Bejar-Merma-a838a4229" height="30" width="40" /></a>
 </p> -->
 
-<h1 align="left">Blogs
- <href="https://andrescienciaesencia.wordpress.com/2023/10/28/cluser-mpi/"> </h1>
+<h1 align="left">Blogs</h1>
+[wordpress] ("https://andrescienciaesencia.wordpress.com/2023/10/28/cluser-mpi/")
 
 
 <h3 align="left">Languages and Tools:</h3>
