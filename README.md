@@ -33,7 +33,9 @@ Here are some ideas to get you started:
 
 <h1 align="left">Blogs</h1>
 [wordpress] (https://andrescienciaesencia.wordpress.com/2023/10/28/cluser-mpi/)
+
 [web server] coming soon..
+
 [github.io] (https://ubuangel.github.io/)
 
 <h3 align="left">Languages and Tools:</h3>
