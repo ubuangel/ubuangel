@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ubuangel" alt="ubuangel" /></a> </p>
 
-- 🌱 I’m currently learning **Json, C++, HPC Cloud Computing ,IA Explanaible**
+- 🌱 I’m currently learning **C++, HPC Cloud Computing ,IA Explanaible**
 
 - 📫 How to reach me **andresbjar97@gmail.com**
 
