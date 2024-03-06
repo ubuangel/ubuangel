@@ -22,14 +22,15 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ubuangel" alt="ubuangel" /></a> </p>
 
-- 🌱 I’m currently learning **C++, HPC Cloud Computing ,IA Explanaible**
+- 🌱 I’m currently learning **HPC ,Cloud Computing ,C#,Python**
 
 - 📫 How to reach me **andresbjar97@gmail.com**
 
-<!-- <h3 align="left">Connect with me:</h3> 
+www.linkedin.com/in/angel-andres-bejar-merma-5baaba281
+ <h3 align="left">Connect with me:</h3> 
 <p align="left">
-<a href="https://linkedin.com/in/htpp://www.linkedin.com/in/Angel-Andres-Bejar-Merma-a838a4229" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="htpp://www.linkedin.com/in/Angel-Andres-Bejar-Merma-a838a4229" height="30" width="40" /></a>
-</p> -->
+<a href="https://linkedin.com/in/htpp://www.linkedin.com/in/angel-andres-bejar-merma-5baaba281" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/angel-andres-bejar-merma-5baaba281" height="30" width="40" /></a>
+</p> 
 
 <h1 align="left">Blogs</h1>
 [wordpress] https://andrescienciaesencia.wordpress.com/blogtest/
