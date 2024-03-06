@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning **HPC ,Cloud Computing ,C#,Python**
 
 - 📫 How to reach me **abebe202023@gmail.com**
-- 📫 How to reach me **@outlook.com**
+- 📫 How to reach me **debiangel27@outlook.com**
 
  <h3 align="left">Connect with me:</h3> 
 <p align="left">
