@@ -26,10 +26,9 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **andresbjar97@gmail.com**
 
-www.linkedin.com/in/angel-andres-bejar-merma-5baaba281
  <h3 align="left">Connect with me:</h3> 
 <p align="left">
-<a href="www.linkedin.com/in/angel-andres-bejar-merma-5baaba281" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/angel-andres-bejar-merma-5baaba281" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/htpp://www.linkedin.com/in/angel-andres-bejar-merma-5baaba281" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="htpp://www.linkedin.com/in/angel-andres-bejar-merma-5baaba281" height="30" width="40" /></a>
 </p> 
 
 <h1 align="left">Blogs</h1>
