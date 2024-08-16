@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ubuangel" alt="ubuangel" /></a> </p>
 
-- 🌱 I’m currently learning **java, ,C++,Python**
+- 🌱 I’m currently learning **expressjs, ,C++,Python**
 
 - 📫 How to reach me **abebe202023@gmail.com**
 - 📫 How to reach me **debiangel27@outlook.com**
