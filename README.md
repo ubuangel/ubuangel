@@ -16,13 +16,13 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋, I'm Angel Andres Bejar Merma</h1>
-<h3 align="center">Soy estudiante de ultimo año de la carrera de Ciencia de la Computacion</h3>
+<h3 align="center">Soy estudiante de ultimo año de la carrera de Ciencia de la Computación</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ubuangel&label=Profile%20views&color=0e75b6&style=flat" alt="ubuangel" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ubuangel" alt="ubuangel" /></a> </p>
 
-- 🌱 I’m currently learning **expressjs, ,C++,Python**
+- 🌱 I’m currently learning **microservicios ,C++,Ai Python**
 
 - 📫 How to reach me **abebe202023@gmail.com**
 - 📫 How to reach me **debiangel27@outlook.com**
