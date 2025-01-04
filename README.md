@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 <h1 align="left">Blogs</h1>
 [wordpress] https://andrescienciaesencia.wordpress.com/blogtest/
 
-[web server] coming soon..
+[web server] coming soon...
 
 [blog] https://andrescienciaesencia.blogspot.com/
 
