@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 </p> 
 
 <h1 align="left">Blogs</h1>
-[wordpress] https://andrescienciaesencia.wordpress.com/blogtest/
+
 
 [web server] https://ubuangel.duckdns.org/...
 
