@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 <h1 align="left">Blogs</h1>
 
 
-[web server] https://ubuangel.duckdns.org/...
+[web server] https://ubuangel.site...
 
 [blog] https://andrescienciaesencia.blogspot.com/
 
