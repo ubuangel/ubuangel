@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋, I'm Angel Andres Bejar Merma</h1>
-<h3 align="center">Soy estudiante de ultimo año de la carrera de Ciencia de la Computación</h3>
+<h3 align="center">BACHELOR IN COMPUTER SCIENCE I LIKE ADMINISTERING SERVERS AND ARTIFICIAL INTELLIGENCE</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ubuangel&label=Profile%20views&color=0e75b6&style=flat" alt="ubuangel" /> </p>
 
