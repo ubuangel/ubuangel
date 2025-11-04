@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ubuangel" alt="ubuangel" /></a> </p>
 
-- 🌱 I’m currently learning **microservicios ,C++,Ai Python**
+- 🌱 I’m currently learning **microservicios,Go ,C++,Ai Python**
 
 - 📫 How to reach me **abebe202023@gmail.com**
 - 📫 How to reach me **debiangel27@outlook.com**
@@ -35,8 +35,10 @@ Here are some ideas to get you started:
 <h1 align="left">Blogs</h1>
 
 
-[web server] https://ubuangel.site...
+[web server] https://angelbejar.site...
+#[web server] https://[forgejo](https://forgejo.angelbejar.site/)
 
+[forgejo](https://forgejo.angelbejar.site/)
 [blog] https://andrescienciaesencia.blogspot.com/
 
 [github.io] https://ubuangel.github.io/
