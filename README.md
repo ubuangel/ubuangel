@@ -35,12 +35,9 @@ Here are some ideas to get you started:
 <h1 align="left">Blogs</h1>
 
 
-[web server] https://angelbejar.site...
-#[web server] https://[forgejo](https://forgejo.angelbejar.site/)
-
-[forgejo](https://forgejo.angelbejar.site/)
+[web server] https://angelbejar.site/
+[forgejo] https://forgejo.angelbejar.site/
 [blog] https://andrescienciaesencia.blogspot.com/
-
 [github.io] https://ubuangel.github.io/
 
 
