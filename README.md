@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 [web server] https://angelbejar.site/
 
-[forgejo] https://forgejo.angelbejar.site/
+[forgejo] https://forgejo.angelbejar.site/angel
 
 [blog] https://andrescienciaesencia.blogspot.com/
 
