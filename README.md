@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi 👋, I'm Angel Andres Bejar Merma</h1>
+<h1 align="center">Hi 👋, I'm Angel </h1>
 <h3 align="center">BACHELOR IN COMPUTER SCIENCE I LIKE ADMINISTERING SERVERS AND ARTIFICIAL INTELLIGENCE</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ubuangel&label=Profile%20views&color=0e75b6&style=flat" alt="ubuangel" /> </p>
