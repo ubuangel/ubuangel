@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning **microservicios,Go ,C++,Ai Python**
 
 - 📫 How to reach me **abebe202023@gmail.com**
-- 📫 How to reach me **debiangel27@outlook.com**
+- 📫 How to reach me **andresbjar97@gmail.com**
 
  <h3 align="left">Connect with me:</h3> 
 <p align="left">
@@ -36,8 +36,11 @@ Here are some ideas to get you started:
 
 
 [web server] https://angelbejar.site/
+
 [forgejo] https://forgejo.angelbejar.site/
+
 [blog] https://andrescienciaesencia.blogspot.com/
+
 [github.io] https://ubuangel.github.io/
 
 
