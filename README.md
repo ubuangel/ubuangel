@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
 <h1 align="left">Blogs</h1>
 
-[Blogs] 
+[Web Server] 
 https://angelbejar.site/
 
 https://andrescienciaesencia.blogspot.com/
