@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 <a href="https://linkedin.com/in/angel-andres-bejar-merma-5baaba281" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="htpp://www.linkedin.com/in/angel-andres-bejar-merma-5baaba281" height="30" width="40" /></a>
 </p> 
 
-<h1 align="left">Blogs</h1>
+<h1 align="left">Web Server</h1>
 
-[Web Server] 
+[Blog] 
 https://angelbejar.site/
 
 https://andrescienciaesencia.blogspot.com/
